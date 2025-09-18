@@ -1,2 +1,30 @@
 
 /* Your CSS Code here. */
+/* General page styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;  /* Light background */
+    color: #333;               /* Dark text for readability */
+    line-height: 1.6;
+    margin: 40px;
+    text-align: center;
+}
+
+/* Heading styling */
+h1 {
+    color: #2a7ae2;            /* Blue heading */
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+/* Paragraph styling */
+p {
+    font-size: 18px;
+    max-width: 700px;
+    margin: auto;              /* Center the paragraph block */
+    text-align: justify;
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0,0,0,0.1);
+}
